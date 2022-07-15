@@ -1,4 +1,6 @@
 # Byte-compiled / optimized / DLL files
+#virtual environment folder
+local
 __pycache__/
 *.py[cod]
 *$py.class
